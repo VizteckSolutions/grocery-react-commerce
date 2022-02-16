@@ -1,4 +1,4 @@
-# Grocery || React || Commerce
+# Grocery || ECommerce || ReactJS
 
 An ECommerce website powered by CommerceJS and ReactJs
 
@@ -91,3 +91,9 @@ Create a product on [CommerceJS dashboard](https://dashboard.chec.io/products).
 - click deploy button
 - wait to complete deployment
 - click Visit Site at the end
+
+## Contributing Partner
+- OnDemandStartUps [OnDemandStartUps](https://ondemandstartup.com/) is developing partner. Feel free to [contact](https://ondemandstartup.com/)
+
+## License
+- [MIT License](https://github.com/nestjs/nest/blob/master/LICENSE)
