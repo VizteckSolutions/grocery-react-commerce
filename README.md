@@ -2,7 +2,7 @@
 
 An ECommerce website powered by CommerceJS and ReactJs
 
-Contact OnDemandStartUps [GitHub Pages](https://ondemandstartup.com/) for customized solution
+Contact OnDemandStartUps [OnDemandStartUps](https://ondemandstartup.com/) for customized solution
 
 Grocery app is created in ReactJS. Its easy to deploy application and any one can deploy it with little effort.
 
