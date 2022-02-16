@@ -1,0 +1,35 @@
+.rec.rec-arrow {
+  position: absolute;
+  z-index: 9;
+}
+.rec-arrow-right {
+  right: 0;
+}
+.rec.arrow.left {
+  left: 0;
+}
+/* round buttons on hover */
+.rec.rec-arrow:hover {
+  color: "#e94560";
+  border-radius: 50%;
+}
+/* hide disabled buttons */
+
+button.rec-dot {
+  display: none;
+}
+.makeStyles-indicators-4 {
+  display: none !important;
+}
+.ashar div.rec.rec-item-wrapper {
+  width: 230px !important;
+  margin-right: 10px;
+}
+.topProduct div.rec.rec-item-wrapper {
+  width: 240px !important;
+  margin-right: 10px;
+}
+
+.jMNKZk {
+  position: relative !important;
+}
